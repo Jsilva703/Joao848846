@@ -1,5 +1,5 @@
 <img align="right" src="https://user-images.githubusercontent.com/78627567/168427335-c142e66d-f7d3-43a8-9d24-8858ef890723.svg" width="400"  > </img>
-<h3 align="left">João Victor - Analista, QA, tester</h3> 
+<h3 align="left">João Victor - Estudante de Desenvolvimento e automação de testes</h3> 
 <h4 align="left">Estudante de Automação de testes em cypress, Habilidade com JS,React,HTML e CSS </h4>
 
 ##
