@@ -6,8 +6,8 @@
 <h3 align="left">Find me:</h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/michael-chierici-1880b3208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/michael-chierici-1880b3208/" height="30" width="40" /></a>
-<a href="https://instagram.com/michaelchierici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michaelchierici" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/joão-victor-b47870239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/michael-chierici-1880b3208/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/joao.victor2941/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michaelchierici" height="30" width="40" /></a>
 
  ##
 <h3 align="left">Hard Skills:</h3>
