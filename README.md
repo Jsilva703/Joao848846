@@ -1,33 +1,37 @@
-### Olá, Sou o João Victor
+<img align="right" src="https://user-images.githubusercontent.com/78627567/168427335-c142e66d-f7d3-43a8-9d24-8858ef890723.svg" width="400"  > </img>
+<h3 align="left">João Victor - Analista, QA, tester</h3> 
+<h4 align="left">Estudante de Automação de testes em cypress, Habilidade com JS,React,HTML e CSS </h4>
 
-- 🌱 Estudando Cypress e React 
-- 👯 Atuando com a implantação do cypress em meus projetos 
-- 📫 Contate-me no e-mail joaovictornunessilva12345@gmail.com
+##
+<h3 align="left">Find me:</h3>
 
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Joao848846&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+<p align="left">
+<a href="https://linkedin.com/in/michael-chierici-1880b3208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/michael-chierici-1880b3208/" height="30" width="40" /></a>
+<a href="https://instagram.com/michaelchierici" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michaelchierici" height="30" width="40" /></a>
+
+ ##
+<h3 align="left">Hard Skills:</h3>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="40"/> </a>  
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="40"/> </a>  </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60"height="40"/> </a> 
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="40"/> </a> 
+<a href="https://insomnia.rest/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1325540?s=200&v=4" alt="insomnia" width="60" height="40"/> </a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="40"/> </a>  
+</p>
+
+<a href="https://user-images.githubusercontent.com/78627567/168427335-c142e66d-f7d3-43a8-9d24-8858ef890723.svg" target="_blank" rel="noreferrer"> </a>
+
+
+ <div> 
+<img src="https://img.shields.io/badge/styledcomponents-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=white" />
+<img src="https://img.shields.io/badge/Insomnia-4000BF.svg?style=for-the-badge&logo=Insomnia&logoColor=white" />
+<img src="https://img.shields.io/badge/Expo-000020.svg?style=for-the-badge&logo=Expo&logoColor=white" />
+<img src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=Yarn&logoColor=white" />
+<img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+
+#
+
+  <p >&nbsp; <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Joao848846&theme=algolia" width="380" > </img>
+ <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Joao848846&theme=dark" width="380" > </img> </p>
 
