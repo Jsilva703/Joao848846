@@ -34,4 +34,3 @@
 
   <p >&nbsp; <img  align="left" src="https://github-readme-stats.vercel.app/api?username=Joao848846&theme=algolia" width="380" > </img>
  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Joao848846&theme=dark" width="380" > </img> </p>
-
