@@ -1,16 +1,16 @@
 <img align="right" src="https://user-images.githubusercontent.com/78627567/168427335-c142e66d-f7d3-43a8-9d24-8858ef890723.svg" width="400"  > </img>
-<h3 align="left">João Victor - Estudante de Desenvolvimento e automação de testes</h3> 
-<h4 align="left">Estudante de Automação de testes em cypress, Habilidade com JS,React,HTML e CSS </h4>
+<h3 align="left"> Olá, me chamo João Victor. Sou Estudante de Desenvolvimento e com conhecimentos em automação de testes</h3> 
+<h4 align="left">Habilidade com JS,React,HTML,CSS e Cypress </h4>
 
 ##
-<h3 align="left">Find me:</h3>
+<h3 align="center">Meus contatos:</h3>
 
-<p align="left">
+<p align="center">
 <a href="www.linkedin.com/in/joão-victor-b47870239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/michael-chierici-1880b3208/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/joao.victor2941/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="michaelchierici" height="30" width="40" /></a>
 
  ##
-<h3 align="left">Hard Skills:</h3>
+<h3 align="center">Hard Skills:</h3>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="60" height="40"/> </a>  
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="40"/> </a>  </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60"height="40"/> </a> 
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="40"/> </a> 
@@ -32,9 +32,11 @@
 
 #
 
- ### ⭐ GitHub Analytics
+ ###  
  
-<table align="center">
+<h3 align="left"> ⭐ GitHub Analytics </h3>
+ 
+<table align="left" >
   <tr>
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=Joao848846&theme=dark&hide_border=false&include_all_commits=true" alt="Github Stats" />
