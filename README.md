@@ -38,11 +38,28 @@ Linguagens & Tecnologias: `JavaScript`, `React`, `TypeScript`,  `Cypress`\
 
 ##
 
+### Projetos Desenvolvidos
+
+Aqui estão alguns exemplos de projetos que desenvolvi:
+
+#### 1. **Cypress**
+[<img height="100px" width="100px" alt="Cypress" src="https://media.licdn.com/dms/image/C4D0BAQGt-oTqjc4gOA/company-logo_200_200/0/1649346796810/cypressio_logo?e=1726704000&v=beta&t=JNB0vouaFLdd5x8RJbcv-pXcHbISttCfpxNjqymc4oU" />](https://github.com/Joao848846/mkm-cypress)
+
+Desenvolvido para automatizar os testes da plataforma.
+
+#### 2. **Microsoft-Graph**
+[<img height="100px" width="100px" alt="Microsoft-Graph" src="https://media.licdn.com/dms/image/C560BAQE88xCsONDULQ/company-logo_200_200/0/1630652622688/microsoft_logo?e=1726704000&v=beta&t=K58LLy6bo-hqoO9JcXhnsa2y5c0_lt1cu8UFXxzyiCg" />](https://github.com/Joao848846/Microsoft-Graph)
+
+Aplicativo desenvolvido com a Microsoft para autenticar a permissão dos usuários.
+
+<br/>
+
 <h3 align="center">⭐ GitHub Analytics</h3>
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joao848846&layout=compact&langs_count=8&theme=react" alt="Top Languages" style="max-width: 45%; width: 45%; display: inline-block; margin-right: 5px;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao848846&theme=dark&hide_border=false" alt="Github Streak Stats" style="max-width: 45%; width: 45%; display: inline-block;">
 </p>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=black&section=footer&reversal=false&fontAlignY=60"/>
