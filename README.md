@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=900&duration=4000&pause=1000&color=585E69&center=true&vCenter=true&repeat=true&random=falso&width=700&lines=EAE+RAPAZIADA;MEU+NOME+%C3%89+JO%C3%83O+VICTOR;SEJAM+BEM-VINDOS!!)](https://git.io/typing-svg)
 
-<h4 align="center">Tenho 24 anos e sou apaixonado por tecnologia desde os meus 10 anos. Sempre tive facilidade de aprendizado e, a partir de 2020, decidi me aprofundar ainda mais nesse fascinante mundo, que poucas pessoas têm a chance de explorar plenamente.</h4>
+<h4 align="center">Tenho 24 anos sou triatlete amador e sou apaixonado por tecnologia desde os meus 10 anos. Sempre tive facilidade de aprendizado e, a partir de 2020, decidi me aprofundar ainda mais nesse fascinante mundo, que poucas pessoas têm a chance de explorar plenamente.</h4>
 
 ##
 
