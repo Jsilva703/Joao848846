@@ -7,7 +7,7 @@
 ##
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Joao848846&bg_color=0d1117&color=ffffff&line=00fa04&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jsilva703&bg_color=0d1117&color=ffffff&line=00fa04&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <div align="center"> 
@@ -57,8 +57,8 @@ Aplicativo desenvolvido com a Microsoft para autenticar a permissão dos usuári
 <h3 align="center">⭐ GitHub Analytics</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Joao848846&layout=compact&langs_count=8&theme=react" alt="Top Languages" style="max-width: 45%; width: 45%; display: inline-block; margin-right: 5px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao848846&theme=dark&hide_border=false" alt="Github Streak Stats" style="max-width: 45%; width: 45%; display: inline-block;">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jsilva703&layout=compact&langs_count=8&theme=react" alt="Top Languages" style="max-width: 45%; width: 45%; display: inline-block; margin-right: 5px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jsilva703&theme=dark&hide_border=false" alt="Github Streak Stats" style="max-width: 45%; width: 45%; display: inline-block;">
 </p>
 
 
